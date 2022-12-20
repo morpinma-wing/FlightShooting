@@ -1,0 +1,4 @@
+Name    Score
+Wing    50
+Chan	1
+Wing		16
